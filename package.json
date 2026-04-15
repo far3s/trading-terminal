@@ -1,0 +1,6 @@
+{
+  "name": "trading-terminal",
+  "version": "1.0.0",
+  "description": "AI Trading Terminal for Plus500",
+  "engines": { "node": "18.x" }
+}
